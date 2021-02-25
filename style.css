@@ -1,0 +1,16 @@
+body{
+    color: rgb(4, 255, 234);
+    background-color: black;
+    }
+    #heading{
+    width: 80%;
+    font-size: medium;
+    }
+    #camera{
+    border: 2px double turquoise;
+    width: 350px;
+    height: 300px;
+    }
+    .name_of_man,#result_object_name,#result_man_accuracy{
+    color: turquoise;
+    }
